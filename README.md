@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello and welcome to my GitHub page
+I'm just a student at a University in Norway who is doing a bachelor degree in programming and enjoy it a lot.
 
+Here are some of my epic stats for nerds!
+
+[![FroztySeven's GitHub stats](https://github-readme-stats.vercel.app/api?username=FroztySeven&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FroztySeven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **FroztySeven/FroztySeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
